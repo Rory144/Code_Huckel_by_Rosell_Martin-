@@ -1,0 +1,10 @@
+0         # Charge of the polyene -> q
+linear    # The dispostition of the polyene: linear or cyclic
+3         # Number of identical cells -> M
+2         # Number of atoms differents in a cell -> N_atom
+-0.8      # Betha(+)
+-0.4      # Betha(-)
+-11.4     # Alpha for the first type of atom
+-10.8     # Alpha for the second type of atom
+#11.4     # Alpha for the third type of atom
+#3.0      # Alpha for the fourth type of atom 
